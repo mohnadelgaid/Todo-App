@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Todo-App/static/css/main.4fbb16cb.css",
+    "main.js": "/Todo-App/static/js/main.67873c36.js",
+    "static/js/453.4869e0f5.chunk.js": "/Todo-App/static/js/453.4869e0f5.chunk.js",
+    "static/media/Alexandria-Bold.ttf": "/Todo-App/static/media/Alexandria-Bold.0cf36a1f1e325bcf6dcf.ttf",
+    "static/media/Alexandria-Black.ttf": "/Todo-App/static/media/Alexandria-Black.6ae708e765675e6b0e46.ttf",
+    "static/media/Alexandria-Light.ttf": "/Todo-App/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
+    "static/media/Alexandria-Regular.ttf": "/Todo-App/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
+    "index.html": "/Todo-App/index.html",
+    "main.4fbb16cb.css.map": "/Todo-App/static/css/main.4fbb16cb.css.map",
+    "main.67873c36.js.map": "/Todo-App/static/js/main.67873c36.js.map",
+    "453.4869e0f5.chunk.js.map": "/Todo-App/static/js/453.4869e0f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fbb16cb.css",
+    "static/js/main.67873c36.js"
+  ]
+}
